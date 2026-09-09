@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Power BI temporary files
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
