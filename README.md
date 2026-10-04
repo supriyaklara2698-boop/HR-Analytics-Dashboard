@@ -227,8 +227,8 @@ HR-Analytics-Dashboard/
 │   ├── Business_Problem.md
 │   └── Business_Questions.md
 │
-├── images/
-│   └── powerbi_dashboard.png
+├── Images/
+│   └── PowerBI_dashboard.png
 │
 ├── notebooks/
 │   ├── 01_Data_Understanding.ipynb
@@ -343,7 +343,7 @@ Users can explore the dashboard dynamically using slicers for:
 
 ### Dashboard Preview
 
-![HR Analytics Dashboard](images/powerbi_dashboard.png)
+![HR Analytics Dashboard](Images/PowerBI_dashboard.png)
 
 ## 💡 Business Recommendations
 
@@ -419,7 +419,7 @@ The project can be extended with more advanced analytics, including:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/divyasesilia/HR-Analytics-Dashboard.git
+git clone https://github.com/supriyaklara2698-boop/HR-Analytics-Dashboard.git
 ```
 
 ### 2. Navigate to the Project
@@ -467,7 +467,7 @@ The Power BI dashboard was developed using the cleaned HR dataset.
 
 The final dashboard screenshot is available in:
 
-`images/powerbi_dashboard.png`
+`Images/PowerBI_dashboard.png`
 
 The dashboard development process and measures are documented in:
 
